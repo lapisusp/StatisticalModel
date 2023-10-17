@@ -1,0 +1,15 @@
+"Metric"	"Tec1"	"Tec2"	"DifMean"	"p.value"
+"Erros"	"Cave com oculos"	"Cave sem oculos"	57.6388888888889	0.0034996500349965
+"Tempo"	"Cave com oculos"	"Cave sem oculos"	57.6388888888889	0.0046995300469953
+"1"	"Cave com oculos"	"Cave sem oculos"	-2.77777777777778	0.0045995400459954
+"2"	"Cave com oculos"	"Cave sem oculos"	-2.33333333333333	0.0315968403159684
+"3"	"Cave com oculos"	"Cave sem oculos"	-1.22222222222222	0.0913908609139086
+"4"	"Cave com oculos"	"Cave sem oculos"	-1.11111111111111	0.0693930606939306
+"5"	"Cave com oculos"	"Cave sem oculos"	-0.666666666666667	0.189281071892811
+"6"	"Cave com oculos"	"Cave sem oculos"	-0.777777777777778	0.0615938406159384
+"7"	"Cave com oculos"	"Cave sem oculos"	-0.666666666666667	0.297870212978702
+"8"	"Cave com oculos"	"Cave sem oculos"	-1.33333333333333	0.153084691530847
+"9"	"Cave com oculos"	"Cave sem oculos"	-1.44444444444444	0.0322967703229677
+"10"	"Cave com oculos"	"Cave sem oculos"	-0.666666666666667	0.374462553744626
+"11"	"Cave com oculos"	"Cave sem oculos"	-1.11111111111111	0.0988901109889011
+"12"	"Cave com oculos"	"Cave sem oculos"	-2.11111111111111	0.032996700329967
